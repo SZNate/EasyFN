@@ -1,16 +1,16 @@
 {
     "platform": "Playstation",
-    "account": {
+    "account": {YT-frizzie
       "deviceID": "",
       "accountID": "",
       "secret": ""
     },
     "cosmetics": {
-      "skin": "Skull Trooper",
-      "backpack": "",
+      "skin": "Renegade Raider",
+      "backpack": "Crested Cape",
       "emote": "Floss",
       "emoji": "",
-      "pickaxe": "",
+      "pickaxe": "Merry Mint Axe",
       "pet": ""
     },
     "cosmetics_variants": {
